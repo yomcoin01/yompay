@@ -134,19 +134,21 @@ const LandingPage = () => {
           }}
         >
           <a
-            href="https://facebook.com"
+            href="https://www.facebook.com/profile.php?id=61562451907275" 
+
             style={{ color: "#4A235A", fontSize: "1.5rem" }}
           >
             <i className="fab fa-facebook"></i>
           </a>
           <a
-            href="https://twitter.com"
+            href="https://x.com/Yompayy?t=fZ51ZCoSbiewhuiL1vKSmw&s=09" 
+
             style={{ color: "#4A235A", fontSize: "1.5rem" }}
           >
             <i className="fab fa-twitter"></i>
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.linkedin.com/posts/yompay_merry-xmas-and-happy-new-year-in-advance-activity-7277941507146289154-UiwC?utm_source=share&utm_medium=member_android"
             style={{ color: "#4A235A", fontSize: "1.5rem" }}
           >
             <i className="fab fa-instagram"></i>
